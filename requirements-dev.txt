@@ -4,6 +4,6 @@ pytest-asyncio
 pytest-cov
 tqdm
 scikit-learn
-black==21.6b0
+black==24.3.0
 isort
 psutil
